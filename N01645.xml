@@ -118,8 +118,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:001953_0000_0FBA4438855C0E18"/>
-            <pb facs="tcp:001953_0001_0FBA443F58A95EA8"/>
+            <pb facs="unknown:001953_0000_0FBA4438855C0E18"/>
+            <pb facs="unknown:001953_0001_0FBA443F58A95EA8"/>
             <p>A CATALOGUE OF Curious and Valuable BOOKS, (Which mostly belonged to the Reverend <hi>Mr.</hi> GEORGE CURWIN, Late of <hi>Salem,</hi> Deceased) CONSISTING Of <hi>Divinity, Philosophy, History, Poetry,</hi> &amp;c. Generally well Bound.</p>
             <p>To be Sold by <hi>AUCTION,</hi> At the House of Mr. ELISHA ODLIN, on the South Side of the <hi>Town-House</hi> in <hi>Boston,</hi> on <hi>Tuesday</hi> the <hi>Second</hi> Day of <hi>September,</hi> 1718. Beginning at Three a Clock Afternoon.</p>
             <p>The BOOKS will be shewn by SAMUEL GERRISH Bookseller, near the Old Meeting House in <hi>Boston,</hi> from <hi>Thursday</hi> the 28<hi>th</hi> Day of <hi>August,</hi> until the Day of Sale, where Catalogues may be <gap reason="illegible" resp="#AELD" extent="2 words">
@@ -146,7 +146,7 @@
       </front>
       <body>
          <div type="conditions_of_sale">
-            <pb facs="tcp:001953_0002_0FBA444226CF2670"/>
+            <pb facs="unknown:001953_0002_0FBA444226CF2670"/>
             <head>The Conditions of the SALE.</head>
             <p n="1">
                <hi>I.</hi> THat all Buyers do give in their Names and places of Abode, paying also <hi>five Shillings</hi> in the <hi>Pound</hi> (if it be demanded) in part for the Books they shall buy, and so proportionably for lesser Sums; which Money shall be deducted upon the payment of the rest, and delivery of the Books.</p>
@@ -167,7 +167,7 @@
             </closer>
          </div>
          <div type="book_catalogue">
-            <pb n="1" facs="tcp:001953_0003_0FBA444396BAD900"/>
+            <pb n="1" facs="unknown:001953_0003_0FBA444396BAD900"/>
             <list>
                <head>Books in FOLIO.</head>
                <item>1 <hi>
@@ -235,7 +235,7 @@
                   </gap>
                </item>
                <item>
-                  <pb n="2" facs="tcp:001953_0004_0FBA444535874EE0"/>
+                  <pb n="2" facs="unknown:001953_0004_0FBA444535874EE0"/>
 18 <hi>Fox</hi>'s Acts and Monuments, <hi>vol.</hi> 1. with Cuts. 1630</item>
                <item>19 <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
@@ -407,7 +407,7 @@
                   </gap>
                </item>
                <item>
-                  <pb n="3" facs="tcp:001953_0005_0FBA4446E2F1F7F8"/>
+                  <pb n="3" facs="unknown:001953_0005_0FBA4446E2F1F7F8"/>
 53 <hi>Baxter</hi>'s Catholick Theology, in 3 Books. 167<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>
@@ -504,7 +504,7 @@
                   </gap>
                </item>
                <item>
-                  <pb n="4" facs="tcp:001953_0006_0FBA44482B6C8808"/>
+                  <pb n="4" facs="unknown:001953_0006_0FBA44482B6C8808"/>
 29 Analysis Typica Omnium cum veteris cum Nov<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> Testament<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -610,7 +610,7 @@
                   </gap>
                </item>
                <item>
-                  <pb n="5" facs="tcp:001953_0007_0FBA444993AB00F0"/>
+                  <pb n="5" facs="unknown:001953_0007_0FBA444993AB00F0"/>
 63 Acta et Scripta <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Dordracen<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -741,7 +741,7 @@
                   </gap>
                </item>
                <item>
-                  <pb n="6" facs="tcp:001953_0008_0FBA444B2116EAB0"/>
+                  <pb n="6" facs="unknown:001953_0008_0FBA444B2116EAB0"/>
 6 Xenophontis De Cyti Institut<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
                   </gap>ne, Gr. &amp; Lat. 1648</item>
@@ -938,7 +938,7 @@
                      <desc>•</desc>
                   </gap>7</item>
                <item>
-                  <pb n="7" facs="tcp:001953_0009_0FBA444CB3614A30"/>
+                  <pb n="7" facs="unknown:001953_0009_0FBA444CB3614A30"/>
 49 The Works of <hi>Plate,</hi> with an Accounts of his Life, Philosophy, Mo<g ref="char:EOLhyphen"/>rals, and Politicks. By <hi>M. Dacier, vol.</hi> 2. Lond. 1700</item>
                <item>50 Abridgment of the English Military Discipline 1690</item>
                <item>51 <hi>Lubini</hi> Clavis <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1074,7 +1074,7 @@
                   </gap>
                </item>
                <item>
-                  <pb n="8" facs="tcp:001953_0010_0FBA444E0D056B78"/>
+                  <pb n="8" facs="unknown:001953_0010_0FBA444E0D056B78"/>
 90 The <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Transpros'd: Or <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1217,7 +1217,7 @@
                   </gap>
                </item>
                <item>
-                  <pb n="9" facs="tcp:001953_0011_0FBA444FC0F61030"/>
+                  <pb n="9" facs="unknown:001953_0011_0FBA444FC0F61030"/>
 120 The Refined Courtier: Or, A Correction of indecencies in Civil Conversation. 1679</item>
                <item>121 Grammatica Graeca Harmonica. <hi>G<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -1312,7 +1312,7 @@
                      <desc>〈…〉</desc>
                   </gap> Amst. 1642</item>
                <item>
-                  <pb n="10" facs="tcp:001953_0012_0FBA445113597208"/>
+                  <pb n="10" facs="unknown:001953_0012_0FBA445113597208"/>
 160 <hi>Ga<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>arel</hi>'s unheard-of Curiosities. 1650</item>
@@ -1449,7 +1449,7 @@
                   </gap>
                </item>
                <item>
-                  <pb n="11" facs="tcp:001953_0013_0FBA4452F1FCD448"/>
+                  <pb n="11" facs="unknown:001953_0013_0FBA4452F1FCD448"/>
 201 <hi>Corn. Taciti</hi> Opera. <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>. 1619</item>
@@ -1588,7 +1588,7 @@
                      <desc>〈…〉</desc>
                   </gap> Government 1681</item>
                <item>
-                  <pb n="12" facs="tcp:001953_0014_0FBA4457F37C2D00"/>
+                  <pb n="12" facs="unknown:001953_0014_0FBA4457F37C2D00"/>
 240 <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>. Amst. El<gap reason="illegible" resp="#AELD" extent="3 letters">
@@ -1703,7 +1703,7 @@
                   </gap>
                </item>
                <item>
-                  <pb n="13" facs="tcp:001953_0015_0FBA445BD26BD200"/>
+                  <pb n="13" facs="unknown:001953_0015_0FBA445BD26BD200"/>
 279 A Conference between the Soul and <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> and future State. Recommended by <gap reason="illegible" resp="#AELD" extent="1 span">
@@ -1826,7 +1826,7 @@
                      <desc>〈◊〉</desc>
                   </gap>. from 1672, to 1679. 1693</item>
                <item>
-                  <pb n="14" facs="tcp:001953_0016_0FBA445E21B81868"/>
+                  <pb n="14" facs="unknown:001953_0016_0FBA445E21B81868"/>
 318 <hi>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -1963,7 +1963,7 @@
                   </gap>
                </item>
                <item>
-                  <pb n="15" facs="tcp:001953_0017_0FBA445F7052FCA8"/>
+                  <pb n="15" facs="unknown:001953_0017_0FBA445F7052FCA8"/>
 360 Oration<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
                   </gap> M. <hi>Tullis</hi> 
@@ -2060,7 +2060,7 @@
                      <desc>•</desc>
                   </gap>4</item>
                <item>
-                  <pb facs="tcp:001953_0018_0FBA4460E070DAF8"/>
+                  <pb facs="unknown:001953_0018_0FBA4460E070DAF8"/>
 397 <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>
